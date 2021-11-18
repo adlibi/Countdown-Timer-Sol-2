@@ -1,5 +1,5 @@
 
-# Countdown-Timer-Sol-1 (a.k.a 25+5 Clock or Pomodoro Clock)
+# Countdown-Timer-Sol-2 (a.k.a 25+5 Clock or Pomodoro Clock)
 
 #### This file covers the following topics 
 - App description
